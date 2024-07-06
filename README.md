@@ -36,7 +36,12 @@
   <p>All of my work are available at:</p>
 <a href="pandeyprakhar-portfolio.netlify.app"/>
 </div>
-<p align="left"> <br><br>- 💬 Ask me about  MERN Stack and Data Structure-Algorithms,AWS.<br><br>- 🧑‍🤝‍🧑 Contact me at :<a href="prakharharshit.2003@gmail.com"/></p>
+<p align="left">
+  <br>-💬 Ask me about  MERN Stack and Data Structure-Algorithms,AWS.<br>
+  <br>- 🧑‍🤝‍🧑 Contact me at : q<a href="prakharharshit.2003@gmail.com"/>
+    <br>
+    
+  </p>
 
 ###
 
