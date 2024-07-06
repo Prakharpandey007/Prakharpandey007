@@ -104,6 +104,9 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+          </td>
     </tr>
   </table>
 </div>
