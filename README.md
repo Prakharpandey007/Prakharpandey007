@@ -21,19 +21,22 @@
 
 ###
 
-<h1 align="center">Hey! 👋, I'm Prakhar</h1>
+<h1 align="center">Hey! 👋, I'm Prakhar Pandey</h1>
 
 ###
 
-<h3 align="center">🧑‍💻 A passionate Indian Developer</h3>
+<h3 align="center">🧑‍💻 A passionate MERN Stack Developer</h3>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">🔭 I’m working as Software Intern at The Spark Foundation<br><br>- 📚 I'm currently learning Node.js<br><br>- 💬 Ask me about  HTML5, CSS3, JavaScript, React.js, Bootstrap<br><br>- 🧑‍🤝‍🧑 Contact me at : prakharharshit.2003@gmail.com</p>
+<div align="left">
+  <p>All of my work are available at:</p>
+  <img src="pandeyprakhar-portfolio.netlify.app" />
+</div>
+<p align="left">🔭 <br><br>- 📚 I'm currently learning Node.js<br><br>- 💬 Ask me about  MERN Stack and Data Structure-Algorithms,AWS.<br><br>- 🧑‍🤝‍🧑 Contact me at : prakharharshit.2003@gmail.com</p>
 
 ###
 
