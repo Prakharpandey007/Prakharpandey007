@@ -34,7 +34,7 @@
 ###
 <div align="left">
   <p>All of my work are available at:</p>
-  <img src="pandeyprakhar-portfolio.netlify.app" />
+<href="pandeyprakhar-portfolio.netlify.app"/>
 </div>
 <p align="left">🔭 <br><br>- 📚 I'm currently learning Node.js<br><br>- 💬 Ask me about  MERN Stack and Data Structure-Algorithms,AWS.<br><br>- 🧑‍🤝‍🧑 Contact me at : prakharharshit.2003@gmail.com</p>
 
