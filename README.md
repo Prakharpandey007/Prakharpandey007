@@ -106,8 +106,11 @@
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
-          </td>
-    </tr>
+       </td>
+       <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"height="40" alt="Docker logo" />
+       </td>
+        </tr>
   </table>
 </div>
 
